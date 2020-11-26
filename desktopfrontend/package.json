@@ -1,0 +1,16 @@
+{
+  "name": "desktopfrontend",
+  "version": "1.0.0",
+  "description": "Electron Frontend",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder -w"
+  },
+  "author": "Kevin Alvarado Varela",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.0.3",
+    "electron-builder": "^22.9.1"
+  }
+}

@@ -1,4 +1,6 @@
 API/node_modules
 API/.env
 reactfrontend/node_modules
+desktopfrontend/node_modules
+desktopfrontend/dist
 reactfrontend/.env.development
