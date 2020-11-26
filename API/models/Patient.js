@@ -11,6 +11,10 @@ const PatientSchema = new Schema({
     type: String,
     trim: true,
   },
+  phoneNumber: {
+    type: String,
+    trim: true,
+  },
   date: {
     type: String,
     trim: true,
